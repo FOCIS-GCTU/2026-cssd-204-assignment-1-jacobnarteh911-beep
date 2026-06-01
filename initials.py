@@ -30,4 +30,4 @@ def main():
     print()
 
 
-m
+main()
